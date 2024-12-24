@@ -1958,7 +1958,7 @@
 }
 
 .slide2 {
-  background-image: url("/images/h2-slider-2.jpg");
+  background-image: url("./images/h2-slider-2.jpg");
   z-index: 2 !important;
 }
 
