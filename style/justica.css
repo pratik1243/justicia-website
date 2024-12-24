@@ -543,7 +543,7 @@
 .galery-flex1 .gallery-sec:nth-child(1) .up {
   height: 230px;
   width: 320px;
-  background-image: url("/images/hunters-race-MYbhN8KaaEc-unsplash.jpg");
+  background-image: url("images/hunters-race-MYbhN8KaaEc-unsplash.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -551,7 +551,7 @@
 .galery-flex1 .gallery-sec:nth-child(2) .up {
   height: 230px;
   width: 320px;
-  background-image: url("/images/christin-hume-Hcfwew744z4-unsplash.jpg");
+  background-image: url("images/christin-hume-Hcfwew744z4-unsplash.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -559,7 +559,7 @@
 .galery-flex1 .gallery-sec:nth-child(3) .up {
   height: 230px;
   width: 320px;
-  background-image: url("/images/annie-spratt-w17rvzEglgY-unsplash.jpg");
+  background-image: url("images/annie-spratt-w17rvzEglgY-unsplash.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -567,7 +567,7 @@
 .galery-flex1 .gallery-sec:nth-child(4) .up {
   height: 230px;
   width: 320px;
-  background-image: url("/images/redd-PTRzqc_h1r4-unsplash.jpg");
+  background-image: url("images/redd-PTRzqc_h1r4-unsplash.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -575,7 +575,7 @@
 .galery-flex2 .gallery-sec:nth-child(1) .up {
   height: 230px;
   width: 320px;
-  background-image: url("/images/tim-gouw-bwki71ap-y8-unsplash.jpg");
+  background-image: url("images/tim-gouw-bwki71ap-y8-unsplash.jpg");
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.7);
   background-position: center;
@@ -584,7 +584,7 @@
 .galery-flex2 .gallery-sec:nth-child(2) .up {
   height: 230px;
   width: 320px;
-  background-image: url("/images/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg");
+  background-image: url("images/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -592,7 +592,7 @@
 .galery-flex2 .gallery-sec:nth-child(3) .up {
   height: 230px;
   width: 320px;
-  background-image: url("/images/zoe-holling-Deg_jGchsuA-unsplash.jpg");
+  background-image: url("images/zoe-holling-Deg_jGchsuA-unsplash.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -600,7 +600,7 @@
 .galery-flex2 .gallery-sec:nth-child(4) .up {
   height: 230px;
   width: 320px;
-  background-image: url("/images/romain-dancre-doplSDELX7E-unsplash.jpg");
+  background-image: url("images/romain-dancre-doplSDELX7E-unsplash.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -793,7 +793,7 @@
 .part1 .img {
   height: 600px;
   width: 430px;
-  background-image: url("/images/about2-img-2.jpg");
+  background-image: url("images/about2-img-2.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -801,7 +801,7 @@
 .part2 .img {
   height: 600px;
   width: 430px;
-  background-image: url("/images/about2-img-3.jpg");
+  background-image: url("images/about2-img-3.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -1006,7 +1006,7 @@
 .sliding {
   height: 33rem;
   width: 100%;
-  background-image: url("/images/h2-img-7.jpg");
+  background-image: url("images/h2-img-7.jpg");
   margin-bottom: 2rem;
   background-position: center;
   background-size: cover;
@@ -1409,7 +1409,7 @@
 }
 
 .video .image-sec {
-  background-image: url("/images/h2-slider-2.jpg");
+  background-image: url("images/h2-slider-2.jpg");
   height: 450px;
   width: 100%;
   background-position: center;
@@ -1953,16 +1953,16 @@
 }
 
 .slide1 {
-  background-image: url("/images/h2-img-1.jpg");
+  background-image: url("images/h2-img-1.jpg");
   z-index: 2 !important;
 }
 
 .slide2 {
-  background-image: url("/images/h2-slider-2.jpg");
+  background-image: url("images/h2-slider-2.jpg");
   z-index: 2 !important;
 }
 
 .slide3 {
-  background-image: url("/images/h2-slider-3.jpg");
+  background-image: url("images/h2-slider-3.jpg");
   z-index: 2 !important;
 }
