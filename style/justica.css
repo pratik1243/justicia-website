@@ -1953,16 +1953,16 @@
 }
 
 .slide1 {
-  background-image: url("images/h2-img-1.jpg");
+  background-image: url("/images/h2-img-1.jpg");
   z-index: 2 !important;
 }
 
 .slide2 {
-  background-image: url("images/h2-slider-2.jpg");
+  background-image: url("/images/h2-slider-2.jpg");
   z-index: 2 !important;
 }
 
 .slide3 {
-  background-image: url("images/h2-slider-3.jpg");
+  background-image: url("/images/h2-slider-3.jpg");
   z-index: 2 !important;
 }
