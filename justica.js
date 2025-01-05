@@ -92,9 +92,7 @@ menu.addEventListener("click", function () {
   }
 });
 
-document.addEventListener("scroll", function () {
-  show();
-});
+document.addEventListener("scroll", show);
 
 slideBtn1.addEventListener("click", prev);
 slideBtn2.addEventListener("click", next);
@@ -102,7 +100,13 @@ slideBtn2.addEventListener("click", next);
 dot1.addEventListener("click", first);
 dot2.addEventListener("click", second);
 
-setInterval(() => {
+let slideTimer = setInterval(() => {
   next();
   next2();
 }, 3000);
+
+window.onunload = function() {
+  document.removeEventListener('scroll', show);
+  clearInterval(slideTimer);
+  return;
+}
