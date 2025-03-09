@@ -461,6 +461,7 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   margin: 0px 15px;
+  grid-template-rows: 400px;
 }
 
 .galery-flex1 .gallery-sec {
